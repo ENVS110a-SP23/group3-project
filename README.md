@@ -14,7 +14,6 @@ biodiversity. The ideal pH range differs slightly depending on the
 species, though it averages around 8.5.
 
 **Research Question**
-
 Our research question is, how does ocean acidification affect the calcification of coral? The dataset that we are using has multiple different factors for evaluation how the increasing the pCO2 levels of a water sample affect the chemistry and quality of the water. The dataset also on various measures of the health of the coral. We will look at the correlation between increasing pC02 levels and various measures of water quality, the correlation between pC02 levels and coral health and calcification, and the correlation between water quality and coral health. This will allow to determine which factors affect coral calcificaton and by how much.
 
 **Hypothesis and Next Steps**
